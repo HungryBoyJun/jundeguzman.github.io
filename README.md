@@ -1,16 +1,10 @@
 # My Projects, Workarounds, Certifications, Data-Driven Publications
 
 # Student Data Analyst
-My name is Jun and I'm currently pivoting to become Data Analyst while pursuing a Master of Business Analytics & Artificial Intelligence (current GPA: 3.35) at Ontario Tech University. I have built strong foundational core literacies on coding, particularly in Python, SQL, and ML libraries such as Pandas, NumPy, and Scikit-learn. Delivered measurable impact through automated reporting, data-driven decisions, and projects utilizing statistical, sentiment, and exploratory analysis.
+My name is Jun and I'm currently pivoting to become Data Analyst while pursuing a Master of Business Analytics & Artificial Intelligence (current GPA: 3.35) at Ontario Tech University. I have built strong foundational core literacies on coding, particularly in Python, SQL, and ML libraries such as Pandas, NumPy, and Scikit-learn. 
 
-### Education
-Business Analytics and Artificial Intelligence, Masters
-
-### Technical Skills: Python, Google BigQuery, Power BI, Tableau, Spyder
-
-
-## Welcome to my list of portfolios (Github Repositories, Project exercise from Datacamp, Infographic Visualization Iterations at Behance.net, my certifications, Data-Driven Publications and many more
-
+## Welcome to my Portfolio Page 
+(Github Repositories, Project exercise from Datacamp, Infographic Visualization Iterations at Behance.net, my certifications, Data-Driven Publications and many more)
 
 ## Case Projects and Exercises
 
@@ -55,6 +49,8 @@ Business Analytics and Artificial Intelligence, Masters
 
 **Analytical Report on Walmart Sales relative to Consumer Behavior**
 [Click Here](https://medium.com/@jun.budgetary/the-hidden-rhythms-of-retail-what-421-570-walmart-sales-records-reveal-about-consumer-behavior-c32539f89779?postPublishedType=repub) 
+
+### Technical Skills: Python, Google BigQuery, Power BI, Tableau, Spyder
 
 
 
