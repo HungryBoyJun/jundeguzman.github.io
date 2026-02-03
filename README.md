@@ -1,20 +1,24 @@
-# jundeguzman.github.io
-jundeguzman.github.io/portfolios
+# My Projects, Workarounds, Certifications, Data-Driven Publications
 
-# Aspiring Data Analyst
+# Student Data Analyst
 My name is Jun and I'm currently pivoting to become Data Analyst while pursuing a Master of Business Analytics & Artificial Intelligence (current GPA: 3.35) at Ontario Tech University. I have built strong foundational core literacies on coding, particularly in Python, SQL, and ML libraries such as Pandas, NumPy, and Scikit-learn. Delivered measurable impact through automated reporting, data-driven decisions, and projects utilizing statistical, sentiment, and exploratory analysis.
-
-## Welcome to my list of portfolios (Github Repositories, Project exercise from Datacamp, Infographic Visualization Iterations at Behance.net, my certifications, and many more
 
 ### Education
 Business Analytics and Artificial Intelligence, Masters
 
-### Case Projects (3 out of 8 projects)
-Netflix Content Strategy
-Oshawa, Canada
-•	Documentaries generate 3.2 times higher engagement than action films, based on genre analysis of 8,800 titles
-•	Detected 47% growth in non-English content (2018-2021), informing global acquisition strategy.
-•	Utilized Python and SQL for complex data aggregation and time-series analysis to identify emerging content trends.
+### Technical Skills: Python, Google BigQuery, Power BI, Tableau, Spyder
+
+
+## Welcome to my list of portfolios (Github Repositories, Project exercise from Datacamp, Infographic Visualization Iterations at Behance.net, my certifications, Data-Driven Publications and many more
+
+
+## Case Projects and Exercises
+
+### All Github Project Repositories
+**Retail Impact Analysis- Homelessness & Foot Traffic in Toronto**
+[Publication](https://github.com/HungryBoyJun/The-Impact-of-Visible-Homelessness-on-Retail-Store-Performance-in-Downtown-Toronto) 
+**Netflix Content Strategy**
+[Publication](https://github.com/HungryBoyJun/Investigating-Netflix-Movies-using-Subsetting-and-Basic-Matplotlib-Visuals) 
 
 Retail Impact Analysis- Homelessness & Foot Traffic in Toronto
 Oshawa, Canada
