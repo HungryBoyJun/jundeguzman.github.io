@@ -21,16 +21,43 @@ Business Analytics and Artificial Intelligence, Masters
 **Netflix Content Strategy**
 [Click Here](https://github.com/HungryBoyJun/Investigating-Netflix-Movies-using-Subsetting-and-Basic-Matplotlib-Visuals) 
 
-Retail Impact Analysis- Homelessness & Foot Traffic in Toronto
-Oshawa, Canada
-•	Built a geospatial model using GeoPandas showing a 17% pedestrian drop near shelters, translating to a $2.3M annual revenue impact for retailers.
-•	Created interactive visualizations with Plotly to uncover spatial patterns, empowering municipal leaders to optimize resource distribution.
-•	Performed statistical significance testing to validate the correlation between shelter proximity and foot traffic decline.
+**Airline Satisfaction Optimization**
+[Click Here](https://github.com/HungryBoyJun/Airline-Satisfaction-Scores--Our-GroupProject-in-Programming) 
 
-Airline Satisfaction Optimization
-Oshawa, Canada
-•	Identified Wi-Fi quality as the top satisfaction driver (22% higher satisfaction per 1-point rating) using logistic regression on 129K records.
-•	 Prioritized cabin crew responsiveness, explaining 41% of satisfaction variance.
-• Communicated actionable insights and performance metrics to stakeholders through detailed reports and visualizations.
+**Time-Series Analysis on Walmart Sales**
+[Click Here](https://github.com/HungryBoyJun/Sample-Time-Series-Analysis--Walmart) 
+
+**Exploratory Analysis on Insurance Claims Dataset**
+[Click Here](https://github.com/HungryBoyJun/Exploratory-Data-Analysis-on-Insurance-Claims-Dataset) 
+
+### Datacamp Course Completions with Exercises
+[Click Here](https://www.datacamp.com/portfolio/josefinojrdeguzman) 
+
+### Analytics Vidhya Course Refreshers
+**Pandas for Data Analysis in Python**
+[Click Here](https://courses.analyticsvidhya.com/certificates/x2xezrmavv) 
+
+**Exploratory Data Analysis with Python and Gen AI**
+[Click Here](https://courses.analyticsvidhya.com/certificates/drkxybn12k) 
+
+**Building Data Analyst AI Agent**
+[Click Here](https://courses.analyticsvidhya.com/certificates/9z8mf7jr9g) 
+
+**Getting Started with Tableau**
+[Click Here](https://courses.analyticsvidhya.com/certificates/ycrkvuyfqu) 
+
+### Interactive and Infographic Data Visualizations at Behance
+[Click Here](https://www.behance.net/josefindeguzm) 
+
+### Data-Driven Article Publications at MEDIUM Blog
+**Analytical Report on the Impact of Visible Homelesness in Downtown Toronto**
+[Click Here](https://medium.com/@jun.budgetary/the-impact-of-visible-homelessness-on-retail-store-performance-in-downtown-toronto-b329b0908f67) 
+
+**Analytical Report on Walmart Sales relative to Consumer Behavior**
+[Click Here](https://medium.com/@jun.budgetary/the-hidden-rhythms-of-retail-what-421-570-walmart-sales-records-reveal-about-consumer-behavior-c32539f89779?postPublishedType=repub) 
+
+
+
+
 
 
