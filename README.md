@@ -17,6 +17,7 @@ Business Analytics and Artificial Intelligence, Masters
 ### All Github Project Repositories
 **Retail Impact Analysis- Homelessness & Foot Traffic in Toronto**
 [Publication](https://github.com/HungryBoyJun/The-Impact-of-Visible-Homelessness-on-Retail-Store-Performance-in-Downtown-Toronto) 
+
 **Netflix Content Strategy**
 [Publication](https://github.com/HungryBoyJun/Investigating-Netflix-Movies-using-Subsetting-and-Basic-Matplotlib-Visuals) 
 
