@@ -13,9 +13,8 @@ My name is Jun and I'm currently pivoting to become Data Analyst while pursuing 
 <div style="display: flex; justify-content: left; gap: 15px;">
   <!-- Box 1 -->
   <a href="https://github.com/HungryBoyJun/The-Impact-of-Visible-Homelessness-on-Retail-Store-Performance-in-Downtown-Toronto" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="My Files/img/GitHub-logo.jpg" alt="Example Website" height="90"/>
     <div style="width: 100px; height: 100px; background-color: #007BFF; color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center; padding: 10px; box-sizing: border-box;">
-      <!-- Replace 'ICON 1' with your icon/image or text -->
+      <img src="My Files/img/GitHub-logo.jpg" alt="Example Website" height="80"/>
       <span style="font-size: 40px;">&#x1F30E;</span> <!-- Example: Earth emoji -->
       <span style="font-size: 14px; margin-top: 5px;">Site 1</span>
     </div>
@@ -23,9 +22,8 @@ My name is Jun and I'm currently pivoting to become Data Analyst while pursuing 
 
   <!-- Box 2 -->
   <a href="https://www.datacamp.com/portfolio/josefinojrdeguzman" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="My Files/img/0_6rvXh_VVh8A-XQpe.png" alt="Twitter Profile" height="90"/>
     <div style="width: 100px; height: 100px; background-color: #28a745; color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center; padding: 10px; box-sizing: border-box;">
-      <!-- Replace 'ICON 2' with your icon/image or text -->
+      <img src="My Files/img/0_6rvXh_VVh8A-XQpe.png" alt="Twitter Profile" height="80"/>
       <span style="font-size: 40px;">&#x1F4DA;</span> <!-- Example: Books emoji -->
       <span style="font-size: 14px; margin-top: 5px;">Site 2</span>
     </div>
@@ -33,9 +31,8 @@ My name is Jun and I'm currently pivoting to become Data Analyst while pursuing 
 
   <!-- Box 3 -->
   <a href="https://medium.com/@jun.budgetary" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="My Files/img/1_cbyNf_R8Ld_ZzKVv07Ezag.jpg" alt="Project Website" height="90"/>
     <div style="width: 100px; height: 100px; background-color: #dc3545; color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center; padding: 10px; box-sizing: border-box;">
-      <!-- Replace 'ICON 3' with your icon/image or text -->
+      <img src="My Files/img/1_cbyNf_R8Ld_ZzKVv07Ezag.jpg" alt="Project Website" height="80"/>
       <span style="font-size: 40px;">&#x1F680;</span> <!-- Example: Rocket emoji -->
       <span style="font-size: 14px; margin-top: 5px;">Site 3</span>
     </div>
@@ -44,9 +41,8 @@ My name is Jun and I'm currently pivoting to become Data Analyst while pursuing 
 
   <!-- Box 4 -->
   <a href="https://www.analyticsvidhya.com/program-dashboard/learner/progress/data-analyst-learning-path" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="My Files/img/analytics_vidhya_logo.jpg" alt="Project Website" height="90"/>
     <div style="width: 100px; height: 100px; background-color: #dc3545; color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center; padding: 10px; box-sizing: border-box;">
-      <!-- Replace 'ICON 3' with your icon/image or text -->
+      <img src="My Files/img/analytics_vidhya_logo.jpg" alt="Project Website" height="80"/>
       <span style="font-size: 40px;">&#x1F680;</span> <!-- Example: Rocket emoji -->
       <span style="font-size: 14px; margin-top: 5px;">Site 3</span>
     </div>
@@ -55,9 +51,8 @@ My name is Jun and I'm currently pivoting to become Data Analyst while pursuing 
 
  <!-- Box 5 -->
   <a href="https://www.behance.net/josefindeguzm" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="My Files/img/145799.png" alt="Project Website" height="90"/>
     <div style="width: 100px; height: 100px; background-color: #dc3545; color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center; padding: 10px; box-sizing: border-box;">
-      <!-- Replace 'ICON 3' with your icon/image or text -->
+      <img src="My Files/img/145799.png" alt="Project Website" height="80"/>
       <span style="font-size: 40px;">&#x1F680;</span> <!-- Example: Rocket emoji -->
       <span style="font-size: 14px; margin-top: 5px;">Site 3</span>
     </div>
