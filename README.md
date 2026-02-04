@@ -10,6 +10,23 @@ My name is Jun and I'm currently pivoting to become Data Analyst while pursuing 
 
 ## Case Projects and Exercises
 
+<img src="your-icon-image.png" alt="Clickable Quadrants Icon" usemap="#quadrant-map">
+
+<map name="quadrant-map">
+  <!-- Quadrant 1 (Top-Left) -->
+  <area shape="rect" coords="0,0,50,50" href="https://github.com/HungryBoyJun/The-Impact-of-Visible-Homelessness-on-Retail-Store-Performance-in-Downtown-Toronto" alt="Quadrant 1 Link" title="Go to Quadrant 1">
+
+  <!-- Quadrant 2 (Top-Right) -->
+  <area shape="rect" coords="50,0,100,50" href="https://www.datacamp.com/portfolio/josefinojrdeguzman" alt="Quadrant 2 Link" title="Go to Quadrant 2">
+
+  <!-- Quadrant 3 (Bottom-Left) -->
+  <area shape="rect" coords="0,50,50,100" href="https://courses.analyticsvidhya.com/certificates/x2xezrmavv" alt="Quadrant 3 Link" title="Go to Quadrant 3">
+
+  <!-- Quadrant 4 (Bottom-Right) -->
+  <area shape="rect" coords="50,50,100,100" href="https://www.behance.net/josefindeguzm" alt="Quadrant 4 Link" title="Go to Quadrant 4">
+</map>
+
+
 ### All Github Project Repositories
 **Retail Impact Analysis- Homelessness & Foot Traffic in Toronto**
 [Click Here](https://github.com/HungryBoyJun/The-Impact-of-Visible-Homelessness-on-Retail-Store-Performance-in-Downtown-Toronto) 
