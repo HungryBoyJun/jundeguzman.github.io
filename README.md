@@ -15,7 +15,7 @@ My name is Jun and I'm currently pivoting to become Data Analyst while pursuing 
 
 <div class="icon-container">
 
-  <a href="https://github.com/HungryBoyJun/The-Impact-of-Visible-Homelessness-on-Retail-Store-Performance-in-Downtown-Toronto" target="_blank" class="icon-box">
+  <a href="https://github.com/HungryBoyJun?tab=repositories" target="_blank" class="icon-box">
     <img src="My Files/img/GitHub-logo.jpg" alt="GitHub">
     <span>GitHub</span>
   </a>
