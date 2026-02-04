@@ -2,5 +2,5 @@ title: All Portoflios by JDG
 logo: /My Files/img/good_mugshot.jpg
 #description text below image
 #show_downloads: true
-remote_theme: OWNER/REPOSITORY-NAME
+remote_theme: pages-themes/architect@v0.2.0
 
