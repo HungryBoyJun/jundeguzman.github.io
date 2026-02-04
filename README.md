@@ -41,32 +41,6 @@ My name is Jun and I'm currently pivoting to become Data Analyst while pursuing 
 
 
 
-<!-- Example: A clickable icon linking to a website -->
-<a href="https://github.com/HungryBoyJun/The-Impact-of-Visible-Homelessness-on-Retail-Store-Performance-in-Downtown-Toronto" target="_blank">
-  <img src="My Files/img/GitHub-logo.jpg" alt="Example Website" height="40"/>
-</a>
-
-<!-- Another example: Linking to a social media profile -->
-<a href="https://www.datacamp.com/portfolio/josefinojrdeguzman" target="_blank">
-  <img src="My Files/img/0_6rvXh_VVh8A-XQpe.png" alt="Twitter Profile" height="40"/>
-</a>
-
-<!-- Another example: Linking to a specific project site -->
-<a href="https://www.analyticsvidhya.com/program-dashboard/learner/progress/data-analyst-learning-path" target="_blank">
-  <img src="My Files/img/analytics_vidhya_logo.jpg" alt="Project Website" height="40"/>
-</a>
-
-<!-- Another example: Linking to a specific project site -->
-<a href="https://medium.com/@jun.budgetary" target="_blank">
-  <img src="My Files/img/1_cbyNf_R8Ld_ZzKVv07Ezag.jpg" alt="Project Website" height="40"/>
-</a>
-
-<!-- Another example: Linking to a specific project site -->
-<a href="https://www.behance.net/josefindeguzm" target="_blank">
-  <img src="My Files/img/145799.png" alt="Project Website" height="40"/>
-</a>
-
-
 
 ### All Github Project Repositories
 **Retail Impact Analysis- Homelessness & Foot Traffic in Toronto**
