@@ -1,5 +1,7 @@
 # My Projects, Workarounds, Certifications, Data-Driven Publications
 
+![good_mugshot](https://github.com/user-attachments/assets/8815970b-4215-45d5-818c-030e3ca19766)
+
 # Student Data Analyst
 My name is Jun and I'm currently pivoting to become Data Analyst while pursuing a Master of Business Analytics & Artificial Intelligence (current GPA: 3.35) at Ontario Tech University. I have built strong foundational core literacies on coding, particularly in Python, SQL, and ML libraries such as Pandas, NumPy, and Scikit-learn. 
 
