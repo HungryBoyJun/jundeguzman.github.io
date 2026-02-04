@@ -10,6 +10,25 @@ My name is Jun and I'm currently pivoting to become Data Analyst while pursuing 
 
 ## Case Projects and Exercises
 
+<!-- Example: A clickable icon linking to a website -->
+<a href="https://github.com/HungryBoyJun/The-Impact-of-Visible-Homelessness-on-Retail-Store-Performance-in-Downtown-Toronto" target="_blank">
+  <img src="My Files/img/GitHub-logo.jpg" alt="Example Website" height="40"/>
+</a>
+
+<!-- Another example: Linking to a social media profile -->
+<a href="https://www.datacamp.com/portfolio/josefinojrdeguzman" target="_blank">
+  <img src="My Files/img/0_6rvXh_VVh8A-XQpe.png" alt="Twitter Profile" height="40"/>
+</a>
+
+<!-- Another example: Linking to a specific project site -->
+<a href="https://courses.analyticsvidhya.com/certificates/x2xezrmavv" target="_blank">
+  <img src="My Files/img/1_cbyNf_R8Ld_ZzKVv07Ezag.jpg" alt="Project Website" height="40"/>
+</a>
+
+
+
+
+
 <img src="your-icon-image.png" alt="Clickable Quadrants Icon" usemap="#quadrant-map">
 
 <map name="quadrant-map">
