@@ -10,6 +10,9 @@ My name is Jun and I'm currently pivoting to become Data Analyst while pursuing 
 
 ## Case Projects and Exercises
 
+# Just click any of the Box Icons below to view portfolio
+
+
 <div class="icon-container">
 
   <a href="https://github.com/HungryBoyJun/The-Impact-of-Visible-Homelessness-on-Retail-Store-Performance-in-Downtown-Toronto" target="_blank" class="icon-box">
@@ -17,27 +20,43 @@ My name is Jun and I'm currently pivoting to become Data Analyst while pursuing 
     <span>GitHub</span>
   </a>
 
+
   <a href="https://www.datacamp.com/portfolio/josefinojrdeguzman" target="_blank" class="icon-box green">
     <img src="My Files/img/0_6rvXh_VVh8A-XQpe.png" alt="DataCamp">
     <span>DataCamp</span>
   </a>
+
 
   <a href="https://medium.com/@jun.budgetary" target="_blank" class="icon-box red">
     <img src="My Files/img/1_cbyNf_R8Ld_ZzKVv07Ezag.jpg" alt="Medium">
     <span>Medium</span>
   </a>
 
+
   <a href="https://www.analyticsvidhya.com/program-dashboard/learner/progress/data-analyst-learning-path" target="_blank" class="icon-box purple">
     <img src="My Files/img/analytics_vidhya_logo.jpg" alt="Analytics Vidhya">
     <span>Analytics Vidhya</span>
   </a>
+
 
   <a href="https://www.behance.net/josefindeguzm" target="_blank" class="icon-box dark">
     <img src="My Files/img/145799.png" alt="Behance">
     <span>Behance</span>
   </a>
 
+
+   <a href="https://www.linkedin.com/in/jun-de-guzman-4677631a0" target="_blank" class="icon-box dark">
+    <img src="My Files/img/LinkedIn_icon.svg.png" alt="Behance">
+    <span>LinkedIn</span>
+  </a>
+
 </div>
+
+</div>
+
+
+
+
 
 
 
